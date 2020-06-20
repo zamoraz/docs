@@ -2,6 +2,9 @@
 
 ### AIX
 
+Articles | IBM Developer  
+[https://developer.ibm.com/articles/category/aix/?fa=date%3ADESC&fb=](https://developer.ibm.com/articles/category/aix/?fa=date%3ADESC&fb=)
+
 IBM AIX commands you should not leave home without | IBM Developer  
 [https://developer.ibm.com/articles/au-aix_cmds/](https://developer.ibm.com/articles/au-aix_cmds/)
 
