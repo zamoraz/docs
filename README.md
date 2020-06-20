@@ -1,5 +1,26 @@
 ## Docs
 
+### Miscellaneous
+
+[https://developer.ibm.com/articles/using-svmon-to-display-available-memory-on-aix/](https://developer.ibm.com/articles/using-svmon-to-display-available-memory-on-aix/)
+
+[https://developer.ibm.com/articles/au-aix-updating-vios-to-higher-level/](https://developer.ibm.com/articles/au-aix-updating-vios-to-higher-level/)
+
+[https://developer.ibm.com/articles/au-aix-varyonvg-varyoffvg-commands/](https://developer.ibm.com/articles/au-aix-varyonvg-varyoffvg-commands/)
+
+[https://developer.ibm.com/articles/au-aix-recovering-resource-failure-in-cluster/](https://developer.ibm.com/articles/au-aix-recovering-resource-failure-in-cluster/)
+
+[https://developer.ibm.com/articles/au-aix-build-open-source-rpm-packages/](https://developer.ibm.com/articles/au-aix-build-open-source-rpm-packages/)
+
+[https://developer.ibm.com/articles/au-aix-largesend-jumboframes/](https://developer.ibm.com/articles/au-aix-largesend-jumboframes/)
+
+[https://developer.ibm.com/articles/au-tcpsystemcalls/](https://developer.ibm.com/articles/au-tcpsystemcalls/)
+
+[https://developer.ibm.com/articles/au-aix-multipath-io-mpio/](https://developer.ibm.com/articles/au-aix-multipath-io-mpio/)
+
+[https://developer.ibm.com/articles/configure-yum-on-aix/](https://developer.ibm.com/articles/configure-yum-on-aix/)
+
+
 ### AIX
 
 Articles | IBM Developer  
