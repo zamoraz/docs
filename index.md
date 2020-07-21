@@ -20,6 +20,15 @@
 
 [https://developer.ibm.com/articles/configure-yum-on-aix/](https://developer.ibm.com/articles/configure-yum-on-aix/)
 
+[Installing technology levels and service packs for AIX](https://www.ibm.com/developerworks/aix/library/au-aixservicepacks/index.html)
+
+[Updating to a new Technology Level or Service Pack](https://www.ibm.com/support/pages/updating-new-technology-level-or-service-pack)
+
+[Archived | AIX Technology Level update strategies](https://developer.ibm.com/technologies/linux/articles/au-aixtlupdate/)
+
+[Live Partition Mobility](https://www.ibm.com/support/pages/live-partition-mobility)
+
+
 
 ### AIX
 
