@@ -1,63 +1,17 @@
-## Docs
+https://xx282.keap-link005.com/api/v1/click/6574279262339072/4980466904334336
 
-### Miscellaneous
+https://xx282.keap-link005.com/api/v1/click/6303471306670080/4980466904334336
 
-[https://developer.ibm.com/articles/using-svmon-to-display-available-memory-on-aix/](https://developer.ibm.com/articles/using-svmon-to-display-available-memory-on-aix/)
+https://xx282.keap-link005.com/api/v1/click/6746404371693568/4980466904334336
 
-[https://developer.ibm.com/articles/au-aix-updating-vios-to-higher-level/](https://developer.ibm.com/articles/au-aix-updating-vios-to-higher-level/)
+https://xx282.keap-link005.com/api/v1/click/5342587600109568/4980466904334336
 
-[https://developer.ibm.com/articles/au-aix-varyonvg-varyoffvg-commands/](https://developer.ibm.com/articles/au-aix-varyonvg-varyoffvg-commands/)
+https://xx282.keap-link005.com/api/v1/click/5564370685132800/4980466904334336
 
-[https://developer.ibm.com/articles/au-aix-recovering-resource-failure-in-cluster/](https://developer.ibm.com/articles/au-aix-recovering-resource-failure-in-cluster/)
+https://xx282.keap-link005.com/api/v1/click/5866848219693056/4980466904334336
 
-[https://developer.ibm.com/articles/au-aix-build-open-source-rpm-packages/](https://developer.ibm.com/articles/au-aix-build-open-source-rpm-packages/)
+https://xx282.keap-link005.com/api/v1/click/5301273772818432/4980466904334336
 
-[https://developer.ibm.com/articles/au-aix-largesend-jumboframes/](https://developer.ibm.com/articles/au-aix-largesend-jumboframes/)
+https://xx282.keap-link005.com/api/v1/click/6674128662036480/4980466904334336
 
-[https://developer.ibm.com/articles/au-tcpsystemcalls/](https://developer.ibm.com/articles/au-tcpsystemcalls/)
-
-[https://developer.ibm.com/articles/au-aix-multipath-io-mpio/](https://developer.ibm.com/articles/au-aix-multipath-io-mpio/)
-
-[https://developer.ibm.com/articles/configure-yum-on-aix/](https://developer.ibm.com/articles/configure-yum-on-aix/)
-
-[Installing technology levels and service packs for AIX](https://www.ibm.com/developerworks/aix/library/au-aixservicepacks/index.html)
-
-[Updating to a new Technology Level or Service Pack](https://www.ibm.com/support/pages/updating-new-technology-level-or-service-pack)
-
-[Archived | AIX Technology Level update strategies](https://developer.ibm.com/technologies/linux/articles/au-aixtlupdate/)
-
-[Live Partition Mobility](https://www.ibm.com/support/pages/live-partition-mobility)
-
-
-
-### AIX
-
-Articles | IBM Developer  
-[https://developer.ibm.com/articles/category/aix/?fa=date%3ADESC&fb=](https://developer.ibm.com/articles/category/aix/?fa=date%3ADESC&fb=)
-
-IBM AIX commands you should not leave home without | IBM Developer  
-[https://developer.ibm.com/articles/au-aix_cmds/](https://developer.ibm.com/articles/au-aix_cmds/)
-
-Part 1, The basics of network troubleshooting | IBM Developer  
-[https://developer.ibm.com/articles/au-aixnetworkproblem1/](https://developer.ibm.com/articles/au-aixnetworkproblem1/)
-
-Part 2, Detailed diagnosis and troubleshooting | IBM Developer  
-[https://developer.ibm.com/articles/au-aixnetworkproblem2/](https://developer.ibm.com/articles/au-aixnetworkproblem2/)
-
-
-### HMC
-
-
-### NIM
-
-The NIM cheat sheet | IBM Developer  
-[https://developer.ibm.com/technologies/systems/articles/au-aix-nim-cheat-sheet/](https://developer.ibm.com/technologies/systems/articles/au-aix-nim-cheat-sheet/)
-
-
-### PowerHA
-
-
-### VIO
-
-The VIO cheat sheet | IBM Developer  
-[https://developer.ibm.com/technologies/systems/articles/au-viocheatsheet/](https://developer.ibm.com/technologies/systems/articles/au-viocheatsheet/)
+https://xx282.keap-link005.com/api/v1/click/5524859435483136/4980466904334336
